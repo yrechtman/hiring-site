@@ -81,10 +81,6 @@ I'm also interested in new grads who are earlier in that journey but have demons
 
 If you're coming from banking or consulting, the bar is higher and I expect extracurriculars.
 
-## How to apply
-
-Application details coming soon.
-
 ---
 
 *New York only. No exceptions.*
