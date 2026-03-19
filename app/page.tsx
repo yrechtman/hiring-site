@@ -12,12 +12,12 @@ export default function Home() {
         <ReactMarkdown
           components={{
             h1: ({ children }) => (
-              <h1 className="text-3xl font-bold tracking-tight text-white sm:text-4xl mb-2">
+              <h1 className="font-[family-name:var(--font-syne)] text-3xl font-bold tracking-tight text-white sm:text-5xl mb-2">
                 {children}
               </h1>
             ),
             h2: ({ children }) => (
-              <h2 className="text-xl font-semibold text-white mt-12 mb-4">
+              <h2 className="font-[family-name:var(--font-syne)] text-xl font-semibold text-white mt-12 mb-4 uppercase tracking-wide">
                 {children}
               </h2>
             ),

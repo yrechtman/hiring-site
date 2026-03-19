@@ -1,10 +1,9 @@
 import type { Metadata } from "next";
-import { Courier_Prime } from "next/font/google";
+import { Syne } from "next/font/google";
 import "./globals.css";
 
-const courierPrime = Courier_Prime({
-  variable: "--font-courier-prime",
-  weight: ["400", "700"],
+const syne = Syne({
+  variable: "--font-syne",
   subsets: ["latin"],
 });
 
@@ -20,7 +19,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className={`${courierPrime.variable} antialiased`}>
+    <html lang="en" className={`${syne.variable} antialiased`}>
       <body className="min-h-screen bg-[var(--background)] text-[var(--foreground)]">
         {children}
       </body>
