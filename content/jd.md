@@ -7,7 +7,7 @@
 
 Associates and Analysts at Slow work directly with the partners (mostly one partner) to support sourcing, diligence, thesis development, network growth, and housekeeping. They get exposed to our whole network of new and existing founders, investors, and limited partners.
 
-When I started in venture a decade ago, an analyst had to do analytical work and cold outbound. The job was research, cap tables, deck prep, meeting notes, smile and dial, etc.
+When I started in venture a decade ago, an analyst had to do analytical support work and cold outbound. The job was research, cap tables, deck prep, meeting notes, smile and dial, etc.
 
 Most of that work is now faster to do myself with AI than to delegate or just doesn't work at seed. Instead, I want someone who can do what the AI cannot:
 
@@ -53,7 +53,7 @@ This role is reporting to me and working with me. This role is in-office and in 
 
 **Active investment in what's next.** I take seriously the responsibility to help you figure out what you want to do and make it happen.
 
-**Comp.** Structure and amount TBD.
+**Comp.** Structure and amount TBD. Reflect experience and reward success.
 
 **Freedom to build.** A substantial budget to use whatever tools you want and build whatever you think is valuable.
 
