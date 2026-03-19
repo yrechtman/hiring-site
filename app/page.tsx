@@ -22,7 +22,7 @@ export default function Home() {
               </h2>
             ),
             p: ({ children }) => (
-              <p className="text-neutral-300 leading-relaxed mb-4">
+              <p className="text-neutral-300 leading-loose mb-4">
                 {children}
               </p>
             ),
@@ -35,7 +35,7 @@ export default function Home() {
               </ul>
             ),
             li: ({ children }) => (
-              <li className="leading-relaxed">{children}</li>
+              <li className="leading-loose">{children}</li>
             ),
             hr: () => <hr className="border-neutral-700 my-8" />,
             em: ({ children }) => (

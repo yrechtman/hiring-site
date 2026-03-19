@@ -1,9 +1,10 @@
 import type { Metadata } from "next";
-import { Geist } from "next/font/google";
+import { Courier_Prime } from "next/font/google";
 import "./globals.css";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
+const courierPrime = Courier_Prime({
+  variable: "--font-courier-prime",
+  weight: ["400", "700"],
   subsets: ["latin"],
 });
 
@@ -19,7 +20,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className={`${geistSans.variable} antialiased`}>
+    <html lang="en" className={`${courierPrime.variable} antialiased`}>
       <body className="min-h-screen bg-[var(--background)] text-[var(--foreground)]">
         {children}
       </body>
