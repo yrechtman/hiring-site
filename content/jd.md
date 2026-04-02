@@ -33,7 +33,7 @@ This role is reporting to me and working with me. This role is in-office and in 
 
 **Build your brand.** This is a platform job. You have the Slow calling card, access to our network, and the autonomy to develop a public point of view. I want you to raise your profile and be known for something.
 
-**Cultivate taste and exercise judgement.** It's not enough to see a lot of things, you have to create a specific model of the world that makes sense to you and might be right. ~Use your head and have an opinion that you're willing to back up.~
+**Cultivate taste and exercise judgement.** It's not enough to see a lot of things, you have to create a specific model of the world that makes sense to you and might be right. _Use your head and have an opinion that you're willing to back up._
 
 **Eat glass.** You will also do unglamorous work. Logistics, coordination, follow-through, box checking, things that are essential to making it run. This is the tax on everything else and it is non-negotiable.
 
