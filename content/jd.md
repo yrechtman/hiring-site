@@ -27,13 +27,13 @@ This role is reporting to me and working with me. This role is in-office and in 
 
 ## What the job is
 
-**Be in the room.** You'll represent Slow at events, dinners, and founder meetings. More importantly, you'll build your own presence in the founder and operator networks I'm asking you to be in. I want you spending time with whoever is interesting to you (and interesting to me). The requirement is that a lot of things are interesting to you and you have the energy to go pursue them.
+**Be in the room/network.** You'll represent Slow at events, dinners, and founder meetings. More importantly, you'll build your own presence in the founder and operator networks I'm asking you to be in. I want you spending time with whoever is interesting to you (and interesting to me). The requirement is that a lot of things are interesting to you and you have the energy to go pursue them.
 
 **Build the machine.** We are actively building internal tools, workflows, and automations. You'll own a meaningful part of that for yourself, for me, and for the firm overall. This means shipping real things with and actively using AI tools.
 
 **Build your brand.** This is a platform job. You have the Slow calling card, access to our network, and the autonomy to develop a public point of view. I want you to raise your profile and be known for something.
 
-**Cultivate taste and exercise judgement.** It's not enough to see a lot of things, you have to create a specific model of the world that makes sense to you and might be right. Use your head.
+**Cultivate taste and exercise judgement.** It's not enough to see a lot of things, you have to create a specific model of the world that makes sense to you and might be right. ~Use your head and have an opinion that you're willing to back up.~
 
 **Eat glass.** You will also do unglamorous work. Logistics, coordination, follow-through, box checking, things that are essential to making it run. This is the tax on everything else and it is non-negotiable.
 
