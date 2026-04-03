@@ -37,6 +37,8 @@ This role is reporting to me and working with me. This role is in-office and in 
 
 **Eat glass.** You will also do unglamorous work. Logistics, coordination, follow-through, box checking, things that are essential to making it run. This is the tax on everything else and it is non-negotiable.
 
+If I generally skew more systems/SRE I need someone who skews more slop cannon/product eng [ref](https://x.com/yrechtman/status/2039012253341495462?s=20)
+
 ## What the job is not
 
 **It is not a research and analysis role.** I largely do my own analytical work and don't outsource my thinking. You won't be writing my memos or reviewing decks and models for me.
