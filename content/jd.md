@@ -37,7 +37,7 @@ This role is reporting to me and working with me. This role is in-office and in 
 
 **Eat glass.** You will also do unglamorous work. Logistics, coordination, follow-through, box checking, things that are essential to making it run. This is the tax on everything else and it is non-negotiable.
 
-If I generally skew more systems/SRE I need someone who skews more slop cannon/product eng [ref](https://x.com/yrechtman/status/2039012253341495462?s=20)
+If I generally skew more systems/SRE I need someone who skews more slop cannon/product eng. ([i'll explain](https://x.com/yrechtman/status/2039012253341495462?s=20))
 
 ## What the job is not
 
