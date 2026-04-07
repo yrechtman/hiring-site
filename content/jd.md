@@ -14,6 +14,7 @@ Most of that work is now faster to do myself with AI than to delegate or just do
 - Be in rooms and build relationships
 - Build and use tools and systems that make us better
 - Develop their own presence in the networks that matter most
+- Create/find/access information thats not in the training data or open web
 
 This is an opportunity for a lot of doing, learning, and learning-by-doing.
 
