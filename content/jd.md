@@ -45,7 +45,7 @@ This role is reporting to me and working with me. This role is in-office and in 
 If I generally skew more systems/SRE I need someone who skews more slop cannon/product eng. ([i'll explain](https://x.com/yrechtman/status/2039012253341495462?s=20))
 
 ## What a good week looks like
-No two weeks are the same, but a representative one might be:
+No two weeks are the same and the job will change as a result of needs, market conditions/meta, and the success/failure our of shared experiments. But a representative one might be:
 
 - Host a dinner for 10 founders working on something adjacent to a thesis we're developing.
 - Show up at three events - one we're hosting, two we're not - and come back with 2-3 people worth a follow-up.
