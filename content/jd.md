@@ -47,10 +47,10 @@ If I generally skew more systems/SRE I need someone who skews more slop cannon/p
 ## What a good week looks like
 No two weeks are the same and the job will change as a result of needs, market conditions/meta, and the success/failure our of shared experiments. But a representative one might be:
 
-- Host a dinner for 10 founders working on something adjacent to a thesis we're developing.
+- Host a dinner for 10 interesting people working on/thinking about something adjacent to a thesis we're developing.
 - Show up at three events - one we're hosting, two we're not - and come back with 2-3 people worth a follow-up.
 - Build a scraper, a workflow, or an internal tool that removes a recurring manual step from how we run the firm.
-- Ship something public - a post, a thread, an event concept, a thesis - under your own name.
+- Ship something public - a post, a thread, an event concept, a thesis - under your name or in collaboration with me.
 - Sit in on 4-5 founder meetings with me and pressure-test what you think after each one.
 - Close out the logistics and follow-through on last week's promises before making new ones.
 - The best weeks are the ones you pitched me on and I said yes to. I want to be pitched, not pitching.
