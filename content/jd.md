@@ -35,8 +35,8 @@ This role is reporting to me and working with me. This role is in-office and in 
 **Build the machine.** We are actively building internal tools, workflows, and automations. You'll own a meaningful part of that for yourself, for me, and for the firm overall. This means shipping real things with and actively using AI tools.
 
 **Build your brand.** This is a platform job. You have the Slow calling card, access to our network, and the autonomy to develop a public point of view. I want you to raise your profile and be known for something.
-**Bring me the work.** I'd much rather say yes to a pitch than hand out assignments. Show up with opinions, experiments, and things you want to try. If you're waiting to be told what to do, this role will frustrate both of us.
 
+**Bring me the work.** I'd much rather say yes to a pitch than hand out assignments. Show up with opinions, experiments, and things you want to try. I want to help you allocate resources to your/our experiments and projects, not just come up with experiments for you to run.
 
 **Cultivate taste and exercise judgement.** It's not enough to see a lot of things, you have to create a specific model of the world that makes sense to you and might be right. _Use your head and have an opinion that you're willing to back up._
 
@@ -93,11 +93,11 @@ This is a brainy, high velocity, personality hire.
 
 ## Backgrounds
 
-The strongest candidates will have some combination of network, exposure, and experience in the startup world. People with startup backgrounds who have worked in fast-moving environments and have something to show for it.
+The strongest candidates have worked at or founded a startup and have something to show for it. Shipped work beats a clean resume. If you can't point to a thing you built, ran, shipped, or hosted, this is probably not the right role yet - go do that first and come back.
 
-I'm also interested in new grads who are earlier in that journey but have demonstrated genuine interest: you've been writing about startups, doing internships, attending events, building things, or otherwise showing that this world is where you want to be, not just where you're applying.
+New grads welcome if the evidence is there: you've been writing about startups, building things, running events, doing internships that mattered. Please don't drop out to take this job. If you're a senior, graduate first.
 
-If you're coming from banking or consulting, the bar is higher and I expect extracurriculars.
+If you're coming from banking or consulting, the bar is higher and I expect the extracurriculars to carry the weight.
 
 ---
 
