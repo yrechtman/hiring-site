@@ -64,7 +64,7 @@ This isn't an event planning job. If you want a playbook handed to you, would ra
 
 ## How to apply
 
-Skip the cover letter. We'd rather see your work. Send us three things at [yoni@slowbots.co](mailto:yoni@slowbots.co):
+Skip the cover letter. We'd rather see your work. Send us three things at [yoni+irl@slowbots.co](mailto:yoni+irl@slowbots.co?subject=IRL%20Producer%20application):
 
 1. **Your past work.** Links to two or three events you produced: photos, video, the invite, a recap. Add a few lines on the one you're proudest of: how it came together, what broke, and what came out of it.
 2. **One event for Slow.** A one-page concept for something you'd run in your first 90 days: the idea, the point it serves, who's in the room, the format, a rough budget, and how you'd know it worked.
