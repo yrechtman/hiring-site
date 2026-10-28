@@ -9,6 +9,11 @@ You are helping build a hiring website for the Analyst/Associate role at Slow Ve
 - **Reports to:** Yoni Rechtman (NY partner)
 - **Source document:** `associate_jd_v3.docx` — the canonical job description
 
+## Current Role (Oct 2026)
+- The homepage now shows the **IRL Producer** JD from `content/irl.md` (source: Yoni's "Head of Community & Events" Claude Doc, JD tab only — never publish its "Internal: note to Will" tab).
+- The Associate JD (`content/jd.md`) is no longer rendered but kept in the repo.
+- The IRL JD has no apply destination yet (email/form TBD).
+
 ## Website Goals
 - Present the job description publicly
 - Include an application form for candidates (later phase)

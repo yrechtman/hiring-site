@@ -8,9 +8,9 @@ const syne = Syne({
 });
 
 export const metadata: Metadata = {
-  title: "Analyst/Associate — Slow Ventures",
+  title: "IRL Producer — Slow Ventures",
   description:
-    "Slow Ventures is hiring an Analyst/Associate in New York City.",
+    "Slow Ventures is hiring an IRL Producer in New York or SF to run our events.",
 };
 
 export default function RootLayout({
