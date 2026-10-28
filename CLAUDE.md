@@ -12,7 +12,7 @@ You are helping build a hiring website for the Analyst/Associate role at Slow Ve
 ## Current Role (Oct 2026)
 - The homepage now shows the **IRL Producer** JD from `content/irl.md` (source: Yoni's "Head of Community & Events" Claude Doc, JD tab only — never publish its "Internal: note to Will" tab).
 - The Associate JD (`content/jd.md`) is no longer rendered but kept in the repo.
-- IRL applications go to yoni+irl@slowbots.co (yonibot's mailbox; the +irl tag makes the bot file them on the Notion "Applicants" list and send Yoni a daily Telegram digest — see ~/Notion CRM bot/applicants.py). Kept out of yoni@slow.co on purpose.
+- IRL applications go to yoni@slowbots.co — yonibot's mailbox, kept out of yoni@slow.co on purpose. The bot reads strangers' mail there, files applications on the Notion "Applicants" list, flags anything else worth Yoni's attention to Telegram, and sends a daily digest (~/Notion CRM bot/applicants.py). yoni+irl@ also works and skips the triage.
 
 ## Website Goals
 - Present the job description publicly
